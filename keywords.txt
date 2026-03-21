@@ -1,0 +1,11 @@
+cc0, dataset, defense-spending, economic-impact, gdp, geopolitical-risk, inflation, israel, middle-east-economy, open-data, tech-sector, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
