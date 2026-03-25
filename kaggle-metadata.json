@@ -18,6 +18,6 @@
     "geopolitical-risk",
     "inflation"
   ],
-  "description": "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of\n\nDOI: https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ\nGitHub: https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ\nAuthor: de la Serna, Juan Moisés",
+  "description": "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of\nDOI: https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/",
   "isPrivate": false
 }
