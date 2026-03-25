@@ -2,9 +2,7 @@
 language:
   - en
 license: cc-by-4.0
-task_categories:
-  - tabular-classification
-pretty_name: "This dataset provides a comprehensive overview of Israel's economic impact over "
+pretty_name: "This dataset provides a comprehensive overview of Israel's economic impact over " 
 tags:
   - cc0
   - citation
@@ -27,28 +25,18 @@ tags:
   - tech-sector
   - zenodo
   - zenodo
-  - research
   - latin-america
   - open-science
 ---
-
 # This dataset provides a comprehensive overview of Israel's economic impact over 
 
-- **DOI:** [https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ](https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ)
-- **GitHub:** [juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ](https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
-
-## Load
+**DOI:** [https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/](https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/) | **Author:** de la Serna, Juan Moisés
 
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/files/data.csv")
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
 ```bibtex
-@dataset{delaserna2025,author={de la Serna, Juan Moisés},title={This dataset provides a comprehensive overview of Israel's e},year={2025},doi={https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ},url={https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ}}
+@dataset{ds2025,author={de la Serna, Juan Moisés},title={This dataset provides a comprehensive overview of },year={2025},doi={https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/},url={https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/}}
 ```
