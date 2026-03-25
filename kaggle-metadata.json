@@ -1,0 +1,23 @@
+{
+  "title": "This dataset provides a comprehensive overview of Israel's economic impact over ",
+  "id": "juanmoisesd/israel-economic-impact-database-2020-2024-key-indi",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "defense-spending",
+    "economic-impact",
+    "economics",
+    "fair-data",
+    "gdp",
+    "geopolitical-risk",
+    "inflation"
+  ],
+  "description": "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of\n\nDOI: https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ\nGitHub: https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
