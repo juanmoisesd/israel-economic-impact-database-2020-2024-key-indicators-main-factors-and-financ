@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of"
+abstract: "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ"
 url: "https://juanmoisesd.github.io/israel-economic-impact-database-2020-2024-key-indicators-main-factors-and-financ/"
-abstract: "This dataset provides a comprehensive overview of Israel's economic impact over the last five years (2020&ndash;2024), compiled from Perplexity AI aggregating data from TradingEconomics, World Bank, IMF, Bank of Israel, Jefferies, Wikipedia, Times of"
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
